@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fuckaround", "fuckaround\fuckaround.vcxproj", "{7CA6B2E5-BB27-438E-93A4-AC8776A41732}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wallpaper-randomiser", "wallpaper-randomiser\wallpaper-randomiser.vcxproj", "{7CA6B2E5-BB27-438E-93A4-AC8776A41732}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
